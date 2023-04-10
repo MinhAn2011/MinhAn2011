@@ -10,3 +10,11 @@ header {
 	color: #fff;
 	padding: 20px;
 }
+
+img {
+	border: 2px solid #ddd;
+	border-radius: 14px;
+	padding: 5px;
+	width: 350px;
+	border-style:dashed
+  }
